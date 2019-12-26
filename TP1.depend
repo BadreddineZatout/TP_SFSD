@@ -1,0 +1,319 @@
+# depslib dependency file v1.0
+1540242312 source:c:\users\pc\desktop\pgm_c\2cp_tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Struct.h"
+	"biblio.h"
+
+1540232291 source:c:\users\pc\desktop\pgm_c\2cp_tp1\tp1\modele.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+
+1540241813 c:\users\pc\desktop\pgm_c\2cp_tp1\tp1\struct.h
+
+1540242111 source:c:\users\pc\desktop\pgm_c\2cp_tp1\tp1\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"biblio.h"
+	"Struct.h"
+
+1540073914 c:\users\pc\desktop\pgm_c\2cp_tp1\tp1\biblio.h
+
+1543013104 source:e:\users\saleh\desktop\esi\tp1\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"biblio.h"
+	"Struct.h"
+
+1543005588 e:\users\saleh\desktop\esi\tp1\biblio.h
+	"Struct.h"
+
+1542734524 e:\users\saleh\desktop\esi\tp1\struct.h
+
+1543006080 source:e:\users\saleh\desktop\esi\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"Struct.h"
+	"biblio.h"
+
+1542747140 source:e:\users\saleh\desktop\esi\tp1\modele.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+
+1540636214 source:c:\users\pc\desktop\pgm_c\tp_cpi2\tp1\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"biblio.h"
+	"Struct.h"
+	<math.h>
+
+1540073916 c:\users\pc\desktop\pgm_c\tp_cpi2\tp1\biblio.h
+
+1540637397 c:\users\pc\desktop\pgm_c\tp_cpi2\tp1\struct.h
+
+1540636214 source:c:\users\pc\desktop\pgm_c\tp_cpi2\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Struct.h"
+	"biblio.h"
+
+1540637428 source:c:\users\pc\desktop\pgm_c\tp_cpi2\tp1\modele.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+
+1540636216 source:h:\tp1\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"biblio.h"
+	"Struct.h"
+	<math.h>
+
+1540073916 h:\tp1\biblio.h
+
+1540637398 h:\tp1\struct.h
+
+1540636216 source:h:\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Struct.h"
+	"biblio.h"
+
+1540637430 source:h:\tp1\modele.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+
+1542847143 source:e:\users\saleh\desktop\tp1\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"biblio.h"
+	"Struct.h"
+
+1542838472 e:\users\saleh\desktop\tp1\biblio.h
+	"Struct.h"
+
+1542734524 e:\users\saleh\desktop\tp1\struct.h
+
+1542846022 source:e:\users\saleh\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"Struct.h"
+	"biblio.h"
+
+1542747140 source:e:\users\saleh\desktop\tp1\modele.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+
+1541203078 source:e:\users\saleh\desktop\salah\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Struct.h"
+	"biblio.h"
+	<locale.h>
+
+1541200415 e:\users\saleh\desktop\salah\tp1\struct.h
+
+1541115612 e:\users\saleh\desktop\salah\tp1\biblio.h
+	"Struct.h"
+
+1541203013 source:e:\users\saleh\desktop\salah\tp1\modele.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+
+1541202965 source:e:\users\saleh\desktop\salah\tp1\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"biblio.h"
+	"Struct.h"
+	<math.h>
+
+1543006078 source:d:\cpi\pgm_c\tp_cpi2\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"Struct.h"
+	"biblio.h"
+
+1542734524 d:\cpi\pgm_c\tp_cpi2\tp1\struct.h
+
+1543005586 d:\cpi\pgm_c\tp_cpi2\tp1\biblio.h
+	"Struct.h"
+
+1542747140 source:d:\cpi\pgm_c\tp_cpi2\tp1\modele.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+
+1543006796 source:d:\cpi\pgm_c\tp_cpi2\tp1\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"biblio.h"
+	"Struct.h"
+
+1543152831 source:c:\users\pc\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"Struct.h"
+	"biblio.h"
+
+1542734524 c:\users\pc\desktop\tp1\struct.h
+
+1543005588 c:\users\pc\desktop\tp1\biblio.h
+	"Struct.h"
+
+1542747140 source:c:\users\pc\desktop\tp1\modele.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+
+1543153260 source:c:\users\pc\desktop\tp1\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"biblio.h"
+	"Struct.h"
+
+1542747140 source:c:\users\pc\desktop\zatout badreddine_djehaiche salah_g05\modele.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+
+1542734524 c:\users\pc\desktop\zatout badreddine_djehaiche salah_g05\struct.h
+
+1543265888 source:c:\users\pc\desktop\zatout badreddine_djehaiche salah_g05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"Struct.h"
+	"biblio.h"
+
+1543262472 c:\users\pc\desktop\zatout badreddine_djehaiche salah_g05\biblio.h
+	"Struct.h"
+
+1543262828 source:e:\users\saleh\desktop\zatout badreddine_djehaiche salah_g05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"Struct.h"
+	"biblio.h"
+
+1542734524 e:\users\saleh\desktop\zatout badreddine_djehaiche salah_g05\struct.h
+
+1543262472 e:\users\saleh\desktop\zatout badreddine_djehaiche salah_g05\biblio.h
+	"Struct.h"
+
+1542747140 source:e:\users\saleh\desktop\zatout badreddine_djehaiche salah_g05\modele.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+
+1543265491 source:e:\users\saleh\desktop\zatout badreddine_djehaiche salah_g05\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"biblio.h"
+	"Struct.h"
+
+1543268411 source:d:\cpi\pgm_c\tp_cpi2\zatout badreddine_djehaiche salah_g05\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"biblio.h"
+	"Struct.h"
+
+1543262472 d:\cpi\pgm_c\tp_cpi2\zatout badreddine_djehaiche salah_g05\biblio.h
+	"Struct.h"
+
+1542734524 d:\cpi\pgm_c\tp_cpi2\zatout badreddine_djehaiche salah_g05\struct.h
+
+1543265888 source:d:\cpi\pgm_c\tp_cpi2\zatout badreddine_djehaiche salah_g05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"Struct.h"
+	"biblio.h"
+
+1542747140 source:d:\cpi\pgm_c\tp_cpi2\zatout badreddine_djehaiche salah_g05\modele.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+
+1543268411 source:d:\programming\pgm_c\tp_cpi2\zatout badreddine_djehaiche salah_g05\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"biblio.h"
+	"Struct.h"
+
+1543262472 d:\programming\pgm_c\tp_cpi2\zatout badreddine_djehaiche salah_g05\biblio.h
+	"Struct.h"
+
+1542734524 d:\programming\pgm_c\tp_cpi2\zatout badreddine_djehaiche salah_g05\struct.h
+
+1543265888 source:d:\programming\pgm_c\tp_cpi2\zatout badreddine_djehaiche salah_g05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"Struct.h"
+	"biblio.h"
+
+1542747140 source:d:\programming\pgm_c\tp_cpi2\zatout badreddine_djehaiche salah_g05\modele.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+

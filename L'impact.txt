@@ -1,0 +1,15 @@
+Si on reordonne le fichier TOVC selon le date :
+______________________________________________
+
+pour la requete :
+_________________
+
+la recherche va devenir par rapport la date.
+le cout et le temps d'execution vont dimunue.
+
+pour l'insertion :
+__________________
+
+la recherche va devenir par rapport la date.
+l'insertion devient avec les villes et les temperatures.
+le cout et le temps d'execution va dimunue.
